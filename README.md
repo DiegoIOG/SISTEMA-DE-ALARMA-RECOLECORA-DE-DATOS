@@ -8,6 +8,11 @@ Se activan una variedad de sensores en este caso deteccion de fuego, deteccion d
 ## Video del funcionamiento
 
 
+## MICROSOFT SQL SERVER 
+
+
+## Dashboard
+
 
 
 ## Sensores y actuadores 
@@ -38,7 +43,4 @@ Nota:En mi caso el R y G estan invertidos
 -pyodbc
 -pyserial
 
-## MICROSOFT SQL SERVER 
 
-
-## Dashboard
