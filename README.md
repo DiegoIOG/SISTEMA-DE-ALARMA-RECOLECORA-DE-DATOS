@@ -2,11 +2,11 @@
 
 Se activan una variedad de sensores en este caso deteccion de fuego, deteccion de temperatura, luz, estos activan una variedad de actuadores en este caso un reele , un LED RGB, que representan las alarmas para una respuesta inmediata , toda la informacion luego es recolectada para su preservacion en un SQL en el cual se pueden analizar los problemas que del sistema o maquina, esta informacion se recolecta mediante python.
 
+## Video del funcionamiento
+
 ## Circuito
 
 ![CIRCUITO](https://github.com/user-attachments/assets/eafdf8a8-0513-4a8c-96e6-78bffd4ad6ea)
-
-## Video del funcionamiento
 
 
 ## MICROSOFT SQL SERVER 
