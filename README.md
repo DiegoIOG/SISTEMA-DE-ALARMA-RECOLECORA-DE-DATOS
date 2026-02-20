@@ -4,11 +4,13 @@ Se activan una variedad de sensores en este caso deteccion de fuego, deteccion d
 
 ## Circuito
 
+![CIRCUITO](https://github.com/user-attachments/assets/eafdf8a8-0513-4a8c-96e6-78bffd4ad6ea)
 
 ## Video del funcionamiento
 
 
 ## MICROSOFT SQL SERVER 
+<img width="542" height="333" alt="REGISTROS_ENTRADA" src="https://github.com/user-attachments/assets/e5c7f17c-c229-45d8-bfce-18395220014d" />
 
 
 ## Dashboard
