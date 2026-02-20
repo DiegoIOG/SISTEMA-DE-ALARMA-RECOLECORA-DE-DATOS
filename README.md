@@ -1,25 +1,39 @@
-# SISTEMA DE ALARMA RECOLECORA DE DATOS 
+# SISTEMA DE ALARMA RECOLECTORA DE DATOS 
 
 Se activan una variedad de sensores en este caso deteccion de fuego, deteccion de temperatura, luz, estos activan una variedad de actuadores en este caso un reele , un LED RGB, que representan las alarmas para una respuesta inmediata , toda la informacion luego es recolectada para su preservacion en un SQL en el cual se pueden analizar los problemas que del sistema o maquina, esta informacion se recolecta mediante python.
 
-## CIRCUITO
+## Circuito
 
 
-## Herramientas
+## Video del funcionamiento
+
+
 
 
 ## Sensores y actuadores 
-KY-015
+- KY-015	 Sensor de temperatura y humedad
+- KY-018	 Foto módulo de resistencia
+- KY-002	 Modulo interruptor de vibración
+- KY-026	 Sensor de llama
+- KY-012	 Módulo Buzzer activo
+- KY-019	 Módulo relé SV
+- KY-009     Led SMD
 
 ## Conexiones
 
--KY-015	
--KY-018	
--KY-002	
--KY-026	
--KY-012	
--KY-019	
--KY-009
+Módulo	Pin
+- KY-015	Pin 2
+- KY-018	A0
+- KY-002	Pin 3
+- KY-026	Pin 4
+- KY-012	Pin 5
+- KY-019	Pin 6
+- RGB R	 10 
+- RGB G	 9
+- RGB B	 11
+
+Nota:En mi caso el R y G estan invertidos 
+
 ## Librerias
 -pyodbc
 -pyserial
