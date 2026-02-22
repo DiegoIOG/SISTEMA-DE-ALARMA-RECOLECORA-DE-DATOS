@@ -47,7 +47,7 @@ void loop() {
     digitalWrite(buzzer, HIGH);
     digitalWrite(rele, HIGH);
 
-    analogWrite(rojo, 255);
+    analogWrite(rojo, 50);
     analogWrite(verde, 0);
     analogWrite(azul, 0 );
   } else {
@@ -55,7 +55,7 @@ void loop() {
     digitalWrite(rele, LOW);
 
     analogWrite(rojo, 0 );
-    analogWrite(verde, 255);
+    analogWrite(verde, 20);
     analogWrite(azul, 0);
   }
 
