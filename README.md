@@ -16,6 +16,11 @@ https://youtu.be/eljexDjG_xs
 
 ## Dashboard
 
+<img width="1107" height="601" alt="image" src="https://github.com/user-attachments/assets/38289f4e-5af8-4817-88fd-39801d8453e0" />
+
+<img width="1112" height="617" alt="image" src="https://github.com/user-attachments/assets/f1f2dce1-3a34-4123-a784-2d78c2c59553" />
+
+<img width="1112" height="615" alt="image" src="https://github.com/user-attachments/assets/309ee101-4c1d-44b6-ab88-99228a51fe1a" />
 
 
 ## Sensores y actuadores 
@@ -43,7 +48,7 @@ Módulo	Pin
 Nota:En mi caso el R y G estan invertidos 
 
 ## Librerias
--pyodbc
--pyserial
+- pyodbc
+- pyserial
 
 
